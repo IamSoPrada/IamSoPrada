@@ -4,7 +4,7 @@ Passionate about web development, love coding and burgers 🍔.
 
 - 🌱 I’m currently learning Typescript/NextJS.
 - 🔭 Open to work, remote or Moscow/Saint-Petersburg. 
-- Stack : React / Redux RTK / NodeJS
+- Stack : React / Tailwind /styled-components /Redux RTK / NodeJS
 - CV : [Hexlet](https://cv.hexlet.io/resumes/785)
 - 📫 tarasevicrustem@gmail.com
 
