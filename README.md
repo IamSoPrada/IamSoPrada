@@ -5,7 +5,7 @@ Passionate about web development, love coding and burgers 🍔.
 - 🌱 I’m currently learning Typescript/NextJS.
 - 🔭 Open to work, remote or Moscow/Saint-Petersburg. 
 - Stack : React / Redux RTK / NodeJS
-- CV : [RU](https://cv.hexlet.io/resumes/785)
+- CV : [Hexlet](https://cv.hexlet.io/resumes/785)
 - 📫 tarasevicrustem@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoprada&layout=compact&hide=css,html)
