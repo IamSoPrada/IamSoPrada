@@ -4,7 +4,7 @@ Passionate about web development, love coding and burgers 🍔.
 
 - 🌱 Frontend Developer.
 - 🔭 Open to work, remote or Moscow/Saint-Petersburg. 
-- Stack : React / Tailwind / styled-components / Redux RTK / NodeJS
+- Stack : TS / Next / React / Tailwind / styled-components / React Query / Redux RTK / NodeJS
 - CV : [Hexlet](https://cv.hexlet.io/resumes/785)
 - 📫 tarasevicrustem@gmail.com
 
