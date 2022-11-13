@@ -2,7 +2,7 @@
 
 Passionate about web development, love coding and burgers 🍔.
 
-- 🌱 I’m currently learning Typescript/NextJS.
+- 🌱 Frontend Developer.
 - 🔭 Open to work, remote or Moscow/Saint-Petersburg. 
 - Stack : React / Tailwind / styled-components / Redux RTK / NodeJS
 - CV : [Hexlet](https://cv.hexlet.io/resumes/785)
